@@ -1,0 +1,11 @@
+{
+  "name": "gas-form-feedback-notification",
+  "version": "1.0.0",
+  "description": "Google App ScriptでFormの回答通知をDiscordに流すコードです",
+  "main": "main.js",
+  "author": "Shion Ichikawa <shion1305@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.83"
+  }
+}
